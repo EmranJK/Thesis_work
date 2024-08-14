@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    <!-- [1] [5] -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <h1>Email Sending Automator</h1>
+    <p>Submitted email addresses: {{ input_text }}</p>
+
+    <form action="/submit" method="post">
+        <input type="text" name="email_input" size=45 placeholder="Enter your Outlook email">
+        <p></p>
+        <input type="password" name="pass_input" size=45 placeholder="Enter your password">
+        <p></p>
+        <input type="password" name="api_input" size=45 placeholder="Enter your ChatGPT API">
+        <p></p>
+        <input type="text" name="input" size=45 placeholder="Enter email addresses here seperated with a comma">
+        <p></p>
+        <input type="text" name="subject_input" size=45 placeholder="Enter email subject">
+        <p></p>
+        <input type="text" name="company_input" size=45 placeholder="Enter company name">
+        <p></p>
+        <input type="text" name="link_input" size=45 placeholder="Enter link">
+        <p></p>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
