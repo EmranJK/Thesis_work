@@ -1,6 +1,6 @@
 # Thesis Work
 
-This repository all files related to the thesis work which are:
+This repository contains all the files related to the thesis work which are:
 
 - All screenshots.
 - Samples scores XLSX file.
