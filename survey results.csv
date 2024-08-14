@@ -1,0 +1,15 @@
+Time Spent,Gender,Age Range,Field of Study,Q4 O1 (GPT),Q4 O2 (Gemini),Q4 O3 (Copilot),Q5 O1 (GPT),Q5 O2 (Gemini),Q5 O3 (Copilot),Q6,Q7,Q8
+05:26,Male,18-24,Medicine,Yes,No,No,Yes,No,No,1,1,i dont think govt websites send bit.ly links to others
+05:07,Female,35-44,Medicine,No,Yes,No,No,Yes,No,2,2,Usually the scam email contains links.
+01:45,Female,18-24,Science,Yes,No,No,Yes,No,No,1,1,Reasons for Legitimacy:  Uses a professional tone. Provides detailed information. Includes verifiable contact details. Shares relevant links that match the sender's domain. Reasons for Scam:  Creates a sense of urgency. Contains obscure links. Domains don't match. Asks for sensitive information too early.
+00:37,Female,Under 18,No degree,No,Yes,No,Yes,No,No,2,1,
+09:26,Female,18-24,Medicine,Yes,No,No,Yes,No,No,1,1,"Reasons for Legitimacy: Professional tone, detailed information, verifiable contact details, relevant links matching sender's domain.  Reasons for Scam: Urgency, obscure links, mismatched domains, request for sensitive information prematurely."
+10:25,Male,35-44,Education,No,No,Yes,No,Yes,No,3,2,They had an address to verify the information or provided a ticket number
+00:35,Male,18-24,Medicine,No,Yes,No,No,No,Yes,2,3,
+17:04,Male,35-44,IT,No,Yes,Yes,Yes,No,Yes,3,1,"Language, links, urgency expressed"
+09:33,Male,35-44,IT,Yes,No,No,No,Yes,No,1,2,Bit url link and a pdf makes suspicios.
+10:38,Male,35-44,Science,Yes,No,No,No,Yes,No,1,2,Asking for payment or sending links are signs of scam
+03:24,Male,18-24,Medicine,No,Yes,No,Yes,No,No,2,1,The links provided lead to legitimate websites where more info is available
+10:55,Male,55-64,IT,No,No,No,No,Yes,No,0,2,All of the emails in question 4 seemed like scam emails. They all contained urgency and embedded links which could take the reader anywhere.
+00:40,Female,55-64,No degree,No,No,Yes,Yes,No,No,3,1,Scam emails seem too formal
+12:44,Male,65+,Language,Yes,Yes,Yes,Yes,Yes,Yes,2,1,The emails provided a lot of details which made me confortable that they are legit.
